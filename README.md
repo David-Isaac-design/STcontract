@@ -715,3 +715,6 @@ MIT
 
 <!-- handsoff-issue-146 -->
 - #146: Add invariant tests for accounting and multi-sig safety
+
+<!-- handsoff-issue-94 -->
+- #94: Test waitlist admission for courses without a capacity limit
