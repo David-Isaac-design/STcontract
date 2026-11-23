@@ -724,3 +724,6 @@ MIT
 
 <!-- handsoff-issue-96 -->
 - #96: Test waitlist event payloads for queue transitions
+
+<!-- handsoff-issue-97 -->
+- #97: Test arbitration escalation fee collection rollback
