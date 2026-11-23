@@ -718,3 +718,6 @@ MIT
 
 <!-- handsoff-issue-94 -->
 - #94: Test waitlist admission for courses without a capacity limit
+
+<!-- handsoff-issue-95 -->
+- #95: Test waitlist removal after a student enrolls directly
