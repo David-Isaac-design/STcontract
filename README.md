@@ -721,3 +721,6 @@ MIT
 
 <!-- handsoff-issue-95 -->
 - #95: Test waitlist removal after a student enrolls directly
+
+<!-- handsoff-issue-96 -->
+- #96: Test waitlist event payloads for queue transitions
